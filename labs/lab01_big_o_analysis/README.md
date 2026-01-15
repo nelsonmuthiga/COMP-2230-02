@@ -64,6 +64,7 @@ See the Java files in this folder:
 - `lecture_example/LectureExample3.java`: Example with f(n) = 3n³ + 2n² + 5n + 1, O(n³) complexity.
 - `lecture_example/ConditionalExample.java`: Example of if-else with max(O(n), O(1)) = O(n).
 - `lecture_example/NestedLoopExample.java`: Example of nested loops with O(n*m) complexity.
+- `practice/SumExample.java`: Practice example comparing three ways to compute sum with different time/space complexities.
 
 Compile and run each, then modify the input sizes to see how time changes.
 
@@ -77,5 +78,6 @@ Compile and run each, then modify the input sizes to see how time changes.
 6. In `lecture_example/LectureExample3.java`, what is the dominant term in f(n) = 3n³ + 2n² + 5n + 1 and why is it O(n³)?
 7. In `lecture_example/ConditionalExample.java`, why is the Big O max(O(n), O(1)) = O(n)?
 8. In `lecture_example/NestedLoopExample.java`, why is the complexity O(n*m) and how does it change if n == m?
+9. In `practice/SumExample.java`, compare the time and space complexities of the three methods. Which is best for large n and why?
 
 Submit your answers and observations in a comment on the lab discussion forum.
