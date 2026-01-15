@@ -78,8 +78,8 @@ By the end of this course, students will be able to:
 COMP-2230-Winter-2026/
 │
 ├── README.md                     # Course overview and instructions
-├── syllabus/                     # Official course outline and policies
-│   └── COMP2230_Syllabus.pdf
+├── outline/                     # Official course outline and policies
+│   └── COMP2230_course_outline.pdf
 │
 ├── lectures/                     # Weekly lecture slides & notes
 │   ├── week01_algorithm_analysis/
@@ -177,7 +177,7 @@ Labs are **practice-focused** and directly aligned with weekly lecture topics.
 
 * Worksheets released **every Monday** (except midterm weeks & Week 1)
 * Due **Sunday 11:59 PM** of the same week
-* Delivered via **GitHub** and submitted as instructed in class
+* Delivered and submitted as instructed in class
 
 Midterms and final exams are **closed-book**, timed, and conducted via Moodle.
 
