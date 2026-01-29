@@ -62,7 +62,7 @@ public class DisplaySearchDemo {
     }
     
     public static void main(String[] args) {
-        DisplaySearchDemo demo = new DisplayDemo();
+        DisplaySearchDemo demo = new DisplaySearchDemo();
         // Build test list: 1 -> 2 -> 2 -> 3 -> NULL
         demo.head = new Node(1);
         demo.head.next = new Node(2);

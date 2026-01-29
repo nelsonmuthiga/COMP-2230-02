@@ -25,6 +25,9 @@ public class SinglyLinkedList {
         linkedList.append(13);
         linkedList.append(2);
         linkedList.append(3);
+        linkedList.append(16);
+        linkedList.append(24);
+        linkedList.append(38);
         linkedList.printList();  // Output: 1 -> 2 -> 3 -> None
     }
 }

@@ -1,0 +1,22 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
